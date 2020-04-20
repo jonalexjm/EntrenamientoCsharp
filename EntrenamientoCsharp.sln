@@ -3,19 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas\Listas.csproj", "{729F2855-F298-413A-B626-B443DB65D2DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listas", "Listas\Listas.csproj", "{729F2855-F298-413A-B626-B443DB65D2DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrientadoObjetos", "OrientadoObjetos\OrientadoObjetos.csproj", "{6EF32C00-2CCD-475F-B0D3-6D7407D75640}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrientadoObjetos", "OrientadoObjetos\OrientadoObjetos.csproj", "{6EF32C00-2CCD-475F-B0D3-6D7407D75640}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{C301A657-F26D-4763-AD55-F40227829231}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{C301A657-F26D-4763-AD55-F40227829231}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{322F5EC2-B45A-4E73-93FD-6915B48C4F08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{322F5EC2-B45A-4E73-93FD-6915B48C4F08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposAnonimos", "TiposAnonimos\TiposAnonimos.csproj", "{AE0407D1-53CB-4D2F-9B24-8E081D1FB0B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposAnonimos", "TiposAnonimos\TiposAnonimos.csproj", "{AE0407D1-53CB-4D2F-9B24-8E081D1FB0B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{3D49C2AE-9024-4EF5-AAAE-21D67E433313}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculadora", "Calculadora\Calculadora.csproj", "{3D49C2AE-9024-4EF5-AAAE-21D67E433313}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{2BC328E7-CB64-4DAF-B0AC-E37FAC489B2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{2BC328E7-CB64-4DAF-B0AC-E37FAC489B2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{2C2B7A1B-0942-4903-97B3-BAE85ABFFAD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoGenerico", "MetodoGenerico\MetodoGenerico.csproj", "{B8639191-F75B-494B-B187-8A402A239DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseGenerica", "ClaseGenerica\ClaseGenerica.csproj", "{ACC25E42-27FE-43CA-9A1B-829E2F1FA443}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{2BC328E7-CB64-4DAF-B0AC-E37FAC489B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BC328E7-CB64-4DAF-B0AC-E37FAC489B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BC328E7-CB64-4DAF-B0AC-E37FAC489B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2B7A1B-0942-4903-97B3-BAE85ABFFAD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2B7A1B-0942-4903-97B3-BAE85ABFFAD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2B7A1B-0942-4903-97B3-BAE85ABFFAD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2B7A1B-0942-4903-97B3-BAE85ABFFAD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8639191-F75B-494B-B187-8A402A239DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8639191-F75B-494B-B187-8A402A239DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8639191-F75B-494B-B187-8A402A239DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8639191-F75B-494B-B187-8A402A239DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC25E42-27FE-43CA-9A1B-829E2F1FA443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC25E42-27FE-43CA-9A1B-829E2F1FA443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC25E42-27FE-43CA-9A1B-829E2F1FA443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC25E42-27FE-43CA-9A1B-829E2F1FA443}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
