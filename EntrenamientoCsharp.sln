@@ -17,11 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculadora", "Calculadora\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{2BC328E7-CB64-4DAF-B0AC-E37FAC489B2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{2C2B7A1B-0942-4903-97B3-BAE85ABFFAD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTable", "HashTable\HashTable.csproj", "{2C2B7A1B-0942-4903-97B3-BAE85ABFFAD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoGenerico", "MetodoGenerico\MetodoGenerico.csproj", "{B8639191-F75B-494B-B187-8A402A239DE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodoGenerico", "MetodoGenerico\MetodoGenerico.csproj", "{B8639191-F75B-494B-B187-8A402A239DE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseGenerica", "ClaseGenerica\ClaseGenerica.csproj", "{ACC25E42-27FE-43CA-9A1B-829E2F1FA443}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClaseGenerica", "ClaseGenerica\ClaseGenerica.csproj", "{ACC25E42-27FE-43CA-9A1B-829E2F1FA443}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritmos", "Algoritmos\Algoritmos.csproj", "{5BD3451B-57D2-4C18-BD26-319F58A02F0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{69655F00-1C6D-40E6-B93A-360489F48B14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq2", "Linq2\Linq2.csproj", "{9A3CF6DB-4FFE-4791-B1BE-22A8DCAAE50D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +75,18 @@ Global
 		{ACC25E42-27FE-43CA-9A1B-829E2F1FA443}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACC25E42-27FE-43CA-9A1B-829E2F1FA443}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACC25E42-27FE-43CA-9A1B-829E2F1FA443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD3451B-57D2-4C18-BD26-319F58A02F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD3451B-57D2-4C18-BD26-319F58A02F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD3451B-57D2-4C18-BD26-319F58A02F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD3451B-57D2-4C18-BD26-319F58A02F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69655F00-1C6D-40E6-B93A-360489F48B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69655F00-1C6D-40E6-B93A-360489F48B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69655F00-1C6D-40E6-B93A-360489F48B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69655F00-1C6D-40E6-B93A-360489F48B14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A3CF6DB-4FFE-4791-B1BE-22A8DCAAE50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3CF6DB-4FFE-4791-B1BE-22A8DCAAE50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3CF6DB-4FFE-4791-B1BE-22A8DCAAE50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3CF6DB-4FFE-4791-B1BE-22A8DCAAE50D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
