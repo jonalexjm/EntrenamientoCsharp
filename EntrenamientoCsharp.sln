@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqLambda", "LinqLambda\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqOperadores", "LinqOperadores\LinqOperadores.csproj", "{B56CE8F3-0F38-476B-B244-9C7E1FB4C4D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multihilos", "Multihilos\Multihilos.csproj", "{6375E6FF-20F3-4091-BA9C-8470B69E473A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegados", "Delegados\Delegados.csproj", "{CD83A619-2C75-453E-8AB9-A18BDE9642A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{B56CE8F3-0F38-476B-B244-9C7E1FB4C4D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B56CE8F3-0F38-476B-B244-9C7E1FB4C4D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B56CE8F3-0F38-476B-B244-9C7E1FB4C4D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6375E6FF-20F3-4091-BA9C-8470B69E473A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6375E6FF-20F3-4091-BA9C-8470B69E473A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6375E6FF-20F3-4091-BA9C-8470B69E473A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6375E6FF-20F3-4091-BA9C-8470B69E473A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD83A619-2C75-453E-8AB9-A18BDE9642A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD83A619-2C75-453E-8AB9-A18BDE9642A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD83A619-2C75-453E-8AB9-A18BDE9642A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD83A619-2C75-453E-8AB9-A18BDE9642A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
